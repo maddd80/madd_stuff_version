@@ -1,2 +1,2 @@
-# madd_stuff_version
+# Madd Stuff Version Check
 This is only version checker only
