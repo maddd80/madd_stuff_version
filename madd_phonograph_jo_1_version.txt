@@ -1,0 +1,8 @@
+version:1.0.2
+changelog:
+Minor bug fixed
+
+# Bug Fixed:
+Inventory issues
+
+# Files Modified
