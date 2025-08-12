@@ -1,3 +1,7 @@
 version:1.0.5
 changelog:
-"Added changelog\n Files modified:\nserver.lua"
+Added changelog
+
+Files modified:
+server.lua
+
