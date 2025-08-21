@@ -1,6 +1,13 @@
-version:1.2.3
+version:1.2.5
 changelog:
-Added changelog
+# BUG FIXES:
+- fix some bet didnt register
+- fix payout system can be buggy
+- fix people exploiting money
 
-Files modified:
-server.lua
+## Files Modified:
+- cl_roulette.lua
+- sv_roulette.lua
+- sv_utils.lua
+- index.js
+- fxmanifest.lua
