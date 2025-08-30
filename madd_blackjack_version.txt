@@ -1,35 +1,9 @@
-version: 1.4.0
+version: 1.4.2
 changelog:
-- Replace ui
-- Replace image
-- Change animation logic
-- added chip object
-- change object spawning logic
-- added cards stack object for dealer
-- added confirm bet button
-- For preview ( [Preview](https://www.youtube.com/watch?v=UyIdC3jVUVM) )
-
-# BUG FIXES:
-- fix floating player
-- fix betting issues
+- Adjust ui for dealer card
+- added leave prompt when not busy
 
 ## Files Modified:
 - cl_main.lua (Modified)
 - sv_blackjack.lua (Modified)
-- sh_config.lua (Modified)
-- sh_locale.lua (Modified)
-- sh_offset.lua (Modified)
-- sh_utils.lua (Modified)
-- ui/chineserocks.ttf (Removed)
-- ui/crock.ttf (Removed)
-- ui/index.html (Removed)
-- ui/chineserocks.ttf (Removed)
-- ui/script.js (Removed)
-- ui/style.css (Removed)
-- ui/images (Removed)
-- ui/action (Added)
-- ui/assets(Added)
-- ui/card (Added)
-- ui/chip (Added)
-- ui/index.html (Added)
-- fxmanifest.lua (Modified)
+- ui/assets (Modified)
