@@ -1,6 +1,22 @@
-version:1.0.1
+version:1.0.5
 changelog:
-Added changelog
+- Added way to change amount in the records maker and shops
+- Change how the phonograph (db) is spawned
+- config phonograph is spawned by server now
+- added france translation
+- minor bug fixes
 
-Files modified:
-server.lua
+# BUG FIXES:
+- fix other player can't play music
+- fix disc duplication
+- fix infinite phonograph (pick up glitch)
+
+## Files Modified:
+- cl_main.lua (Modified)
+- sv_main.lua (Modified)
+- sh_config.lua (Modified)
+- sh_locale.lua (Modified)
+- fxmanifest.lua (Modified)
+
+# Mentions:
+- thanks to <@267654585479462912> for discovering the bugs and helping me to fix, and also for the france translation
