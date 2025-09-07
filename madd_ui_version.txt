@@ -1,6 +1,14 @@
-version:1.0.1
+version:1.0.3
 changelog:
-Added changelog
+- Added dialogue system ( [For Preview](https://www.youtube.com/watch?v=zOg3H5_R23k) )
+- Added posisiton adjustment to notification (for example, top-left, bottom-right)
+- Check README.md for more info
 
-Files modified:
-server.lua
+## Files Modified:
+- cl_notification.lua (Modified)
+- cl_dialogue.lua (Added)
+- assets/index.js (Modified)
+- assets/index.css (Modified)
+- assets/bg_dialogue (Added)
+- README.md (Modified)
+- server.lua (Modified)
