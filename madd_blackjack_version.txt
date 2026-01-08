@@ -1,9 +1,14 @@
-version: 1.4.2
+version: 1.4.5
 changelog:
-- Adjust ui for dealer card
-- added leave prompt when not busy
+- Fixed trigger bet from NUI-DevTools (can go to negative bet and exceeding max bet)
+- Optimization Memory and CPU Usage
+- Added More Details For Webhook
+
+## TO-DO:
+- Optimize More For CPU Usage
+- Refactoring Code
 
 ## Files Modified:
 - cl_main.lua (Modified)
 - sv_blackjack.lua (Modified)
-- ui/assets (Modified)
+- sh_locale.lua (Modified For "bet_webhook") 
