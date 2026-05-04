@@ -1,14 +1,15 @@
-version: 1.4.5
+version: 1.5.2
 changelog:
-- Fixed trigger bet from NUI-DevTools (can go to negative bet and exceeding max bet)
-- Optimization Memory and CPU Usage
-- Added More Details For Webhook
+- Bug Fixes
+- Improvement on calculation for hand
+- Optimization
 
-## TO-DO:
-- Optimize More For CPU Usage
-- Refactoring Code
+## Bug fixed:
+- Dealer NPC didnt get spawned sometimes
+- Fix where player cant seat on the char
 
 ## Files Modified:
 - cl_main.lua (Modified)
 - sv_blackjack.lua (Modified)
-- sh_locale.lua (Modified For "bet_webhook") 
+- sh_config.lua (Modified)
+- UI Folder (Modified)
